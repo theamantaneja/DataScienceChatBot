@@ -47,7 +47,7 @@ The chatbot employs cosine similarity to find the best match for the user's inpu
 3. Cosine similarity - The cosine similarity between the user's input and each question in the data set is calculated. The question with the highest cosine similarity score is chosen as the match for the user's input.
 4. Response - If a match is found, the corresponding answer is returned to the user. If no match is found, the chatbot responds with "We can't answer this".
 
-![image](https://github.com/pik1989/Cosine-Similarity-Chatbot/assets/34673684/ead0a0cc-b64c-4dd4-9753-4a89aebe9494)
+![image](https://github.com/theamantaneja/DataScienceChatBot/blob/main/frontend/src/assets/img1.png)
 
 #### Future improvements
 
@@ -60,4 +60,4 @@ The current version of the chatbot is a simple prototype. There are several aven
    
 #### Future Scope
 
-![image](https://github.com/pik1989/Cosine-Similarity-Chatbot/assets/34673684/daa0de37-1588-4efd-805e-a3706b46ef2d)
+![image](https://github.com/theamantaneja/DataScienceChatBot/blob/main/frontend/src/assets/img2.png)
