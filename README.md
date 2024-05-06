@@ -34,6 +34,10 @@ pip install nltk numpy
     python app.py
     ```
 
+#### Front-End: React & Flask
+
+1. I have used vite framework for using react for the front end and integrated my data science model with the front end using FLASK.
+
 #### How it works
 
 The chatbot employs cosine similarity to find the best match for the user's input. The pre-defined list of questions and their corresponding answers are present in the `test.csv` file, which is loaded into memory when the program starts. When the user enters a question, the following steps are performed:
